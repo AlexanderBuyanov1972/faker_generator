@@ -1,3 +1,5 @@
+// node generator.js > ../students.json
+// json-server --watch ../students.json
 const studentsDB = {students: []};
 const faker = require('faker');
 
