@@ -12,11 +12,11 @@ const lecturersArray = ['Ivanov', 'Petrov', 'Sidorov', 'Makarov', 'Krutov',
 
     for (let i = 0; i < 10; i++) {
         let course = {};
-        course.id = (i + 1) + '';
-        course.title = titleArray[i];
-        course.price = priceArray[i];
-        course.description = titleArray[i] + descriptionArray;
-        course.lecturer = lecturersArray[i];
-        coursesDB.courses[i] = course;
-    }
+course.id = (i + 1) + '';
+course.title = titleArray[i];
+course.price = priceArray[i];
+course.description = titleArray[i] + descriptionArray;
+course.lecturer = lecturersArray[i];
+coursesDB.courses[i] = course;
+}
 console.log(JSON.stringify(coursesDB));
