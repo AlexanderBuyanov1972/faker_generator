@@ -1,7 +1,6 @@
 // node  faker_courses.js > ../courses.json
 // json-server --watch ../courses.json
 
-
 const coursesDB = {courses: []};
 const titleArray = ['Java', 'C++', 'QA', 'JavaScript', 'Python', 'Golang', 'Swift', 'PHP', 'Kotlin', 'R'];
 const priceArray = [15200, 14300, 13200, 15800, 13400, 12900, 14300, 18500, 16900, 12500];
