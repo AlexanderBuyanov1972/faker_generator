@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a267a1fc-bc24-4fa6-9247-a36391bd7b0f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/faker_courses.js" beforeDir="false" afterPath="$PROJECT_DIR$/faker_courses.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generator.js" beforeDir="false" afterPath="$PROJECT_DIR$/faker_students.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,7 +18,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/faker_students.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
+            <state relative-caret-position="306">
               <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -32,8 +30,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/faker_courses.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
-              <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="38" />
+            <state relative-caret-position="448">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -96,7 +97,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.15.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RentCompanyFrontAngular" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -150,11 +151,13 @@
       <workItem from="1559483867990" duration="2048000" />
       <workItem from="1559574757859" duration="2310000" />
       <workItem from="1559597051556" duration="2113000" />
+      <workItem from="1559741514328" duration="254000" />
+      <workItem from="1559742690209" duration="3212000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37132000" />
+    <option name="totallyTimeSpent" value="40598000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -180,7 +183,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.26435536" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.26760563" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -214,7 +217,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/faker_students.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
+        <state relative-caret-position="306">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -224,8 +227,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/faker_courses.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="38" />
+        <state relative-caret-position="448">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
